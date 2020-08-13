@@ -1,5 +1,4 @@
 import sys
-argv = sys.argv
 from PIL import Image
 import math
 
