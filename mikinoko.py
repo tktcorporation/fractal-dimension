@@ -61,4 +61,4 @@ if __name__== '__main__':
     yt = ys
     l = math.sqrt((xs-xt)**2+(ys-yt)**2)
     koch(xs,ys,xt,yt,l)
-    new_im.save("koch.png","PNG")
+    im.save("koch.png","PNG")
